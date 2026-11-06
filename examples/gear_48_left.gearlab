@@ -1,0 +1,27 @@
+{
+  "format": "GearLab",
+  "version": 1,
+  "parameters": {
+    "kind": "helical",
+    "teeth": 48,
+    "module": 0.5280927299414034,
+    "sizing": "module",
+    "outside": 28.031443620351585,
+    "height": 10.0,
+    "pressure": 20.0,
+    "helix": 20.0,
+    "hand": "left",
+    "backlash": 0.1,
+    "root_override": 25.73144362035158,
+    "bore": 2.8,
+    "bore_shape": "round",
+    "flat": 0.5,
+    "counterbore": 10.0,
+    "counter_depth": 5.0,
+    "rim": 3.0,
+    "cone": 15.0,
+    "starts": 1,
+    "worm_diameter": 16.0,
+    "quality": "fine"
+  }
+}
